@@ -13,6 +13,6 @@ $(document).ready(function(){
 
 	$('img').attr('src', randomCage );
 
-	alert("You have been Cageified!");
+	alert("Qui Gon Jinn, Snoke Confirmed!");
 
 });
