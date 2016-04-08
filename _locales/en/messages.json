@@ -3,7 +3,7 @@
 /* An Example String */
 {
   "hello_string": {
-    "message": "Greetings, elf!",
+    "message": "Qui Gon Jinn the Best!",
     "description": "Shown when the app loads"
   }
 }
