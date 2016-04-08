@@ -24,7 +24,6 @@
     "clipboardWrite", 
     "contextMenus", 
     "cookies", 
-    "fileBrowserHandler", 
     "geolocation",
     "history", 
     "idle", 
