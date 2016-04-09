@@ -17,6 +17,4 @@ $(document).ready(function(){
         $(this).attr('src', jinn[Math.floor(Math.random()*jinn.length)]);
     });
 
-	alert("Qui Gon Jinn, Snoke Confirmed!");
-
 });
