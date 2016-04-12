@@ -16,5 +16,9 @@ $(document).ready(function(){
     $('img').each(function() {
         $(this).attr('src', jinn[Math.floor(Math.random()*jinn.length)]);
     });
+    
+    $('img').click(function(){
+        window.open('https://impetegerardwhatsyourproblem.wordpress.com/2016/01/26/star-wars-who-is-snoke-warning-nerd-alert/');
+    });
 
 });
