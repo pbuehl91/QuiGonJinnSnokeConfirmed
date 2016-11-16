@@ -13,6 +13,8 @@ $(document).ready(function(){
        'http://38.media.tumblr.com/tumblr_m4nvdh5A0E1rn637d.gif'
    ];
 
+    $("div").css('cursor','url(http://w17.snunit.k12.il/images/big_arrow.png),auto');
+   
     $('img').each(function() {
         $(this).attr('src', jinn[Math.floor(Math.random()*jinn.length)]);
     });
