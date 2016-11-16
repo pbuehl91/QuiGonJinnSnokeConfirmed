@@ -12,9 +12,6 @@ $(document).ready(function(){
        'http://25.media.tumblr.com/bea120a7951ebfcf03f41550e522a915/tumblr_myqpkgmA7Q1qke34uo1_250.gif',
        'http://38.media.tumblr.com/tumblr_m4nvdh5A0E1rn637d.gif'
    ];
-   
-   $("body").css('cursor','url(http://w17.snunit.k12.il/images/big_arrow.png),auto');
-   });
 
     $('img').each(function() {
         $(this).attr('src', jinn[Math.floor(Math.random()*jinn.length)]);
